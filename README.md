@@ -1,3 +1,3 @@
 # Mplay
 
-#An android app to play music on android devices.
+#A great android app to play music on android devices
